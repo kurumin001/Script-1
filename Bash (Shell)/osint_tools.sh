@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 #Funcionalidades:
 #Resolução de IP de domínios.
 #Consulta WHOIS para informações de registro.
